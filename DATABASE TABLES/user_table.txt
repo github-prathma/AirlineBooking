@@ -1,0 +1,15 @@
+Column Name		Data Type		Nullable	Default	Primary Key
+USERNAME		VARCHAR2(255)	No	 -	1
+FIRST_NAME		VARCHAR2(255)	Yes	 -	 -
+LAST_NAME		VARCHAR2(255)	Yes	 -	 -
+MOBILE_NO		VARCHAR2(255)	Yes	 -	 -
+EMAIL_ID			VARCHAR2(255)	Yes	 -	 -
+PASSWORD		VARCHAR2(255)	Yes	 -	 -
+SECURITY_QUESTION	VARCHAR2(255)	Yes	 -	 -
+ANSWER			VARCHAR2(255)	Yes	 -	 -
+
+
+USERNAME	FIRST_NAME	LAST_NAME	MOBILE_NO	EMAIL_ID			PASSWORD	SECURITY_QUESTION	ANSWER
+ sh		shvm		kumar		2345678998	sh20@gmail.com		hello		Enter your birth place	place
+ k.get		Kush		Mehta		9786543212	k.getr99@gmail.com		kush		Enter your birth place	Roorkee
+ avi210201	r		K		87278		name@example.com	RK		Enter your birth place	Lucknow

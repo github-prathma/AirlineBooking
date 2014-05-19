@@ -1,0 +1,14 @@
+Column Name	Data Type		Nullable	Default	Primary Key
+SERIAL		NUMBER		No	 -	1
+PASSENGER_ID	VARCHAR2(4000)	Yes	 -	 -
+FIRST_NAME	VARCHAR2(4000)	Yes	 -	 -
+LAST_NAME	VARCHAR2(4000)	Yes	 -	 -
+AGE		VARCHAR2(4000)	Yes	 -	 -
+GENDER		VARCHAR2(4000)	Yes	 -	 -
+
+
+
+PASSENGER_ID	FIRST_NAME	LAST_NAME	AGE	GENDER
+
+
+Data to be entered using gui only

@@ -1,0 +1,14 @@
+Column Name	Data Type		Nullable	Default	Primary Key
+ADMIN_NAME	VARCHAR2(30)	No	 -	1
+EMAIL_ID		VARCHAR2(30)	Yes	 -	 -
+PASSWORD	VARCHAR2(30)	Yes	 -	 -
+
+
+
+
+DATA::
+
+ADMIN_NAME		EMAIL_ID		            PASSWORD
+nish		nishthamehrotra20@gmail.com	nishtha
+prathma		prathmarastogi@hotmail.com		prathma
+KUSH		kushagra_agarawal@gmail.com	kushagra
